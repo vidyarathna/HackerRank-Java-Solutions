@@ -4,6 +4,7 @@ This repository contains Java solutions to various HackerRank challenges categor
 
 ## Categories
 
+- **InputOutput**: Solutions for challenges related to reading input from stdin and writing output to stdout.
 - **Arrays**: Java solutions for array-related challenges.
 - **Strings**: Java solutions for string manipulation challenges.
 - **Sorting**: Java solutions for sorting algorithms challenges.
