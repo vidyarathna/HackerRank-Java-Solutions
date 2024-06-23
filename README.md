@@ -8,7 +8,7 @@ This repository contains Java solutions to various HackerRank challenges categor
 - **Arrays**: Java solutions for array-related challenges.
 - **Strings**: Java solutions for string manipulation challenges.
 - **Sorting**: Java solutions for sorting algorithms challenges.
-- **OtherCategories**: Additional categories for different types of challenges.
+
 
 ## Usage
 
